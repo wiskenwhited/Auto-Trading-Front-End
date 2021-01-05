@@ -86,7 +86,7 @@
     "create-react-class": "^15.6.3"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "babel-preset-stage-1": "^6.24.1",
     "chat-engine": "^0.8.4",
     "chat-engine-typing-indicator": "0.0.9",
