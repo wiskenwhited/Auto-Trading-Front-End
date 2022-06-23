@@ -51,7 +51,7 @@
     "jest": "^21.2.1",
     "jest-cli": "^21.2.1",
     "jest-enzyme": "^4.0.1",
-    "jsdom": "^8.1.0",
+    "jsdom": "^16.5.0",
     "json-loader": "^0.5.4",
     "less": "^2.7.2",
     "less-loader": "^4.0.5",
